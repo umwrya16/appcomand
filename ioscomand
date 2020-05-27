@@ -2,5 +2,9 @@
   {
     "canShow" : " no",
     "gameShow" : "yes",
+  },
+  {
+    "canShow" : " no",
+    "gameShow" : "yes",
   }
 ]
