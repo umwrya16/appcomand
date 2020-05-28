@@ -1,11 +1,11 @@
 [
   {
-    "canshow" : "no",
+    "canshow" : "yes",
     "game" : "yes"
     
   },
   {
-    "canshow" : "no",
+    "canshow" : "yes",
     "game" : "yes"
   }
 ]
